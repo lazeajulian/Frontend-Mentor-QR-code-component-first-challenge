@@ -1,0 +1,35 @@
+body{
+  background-color: aliceblue;
+  text-align: center;
+}
+
+p {
+  word-spacing: 10px;
+  font-family: 'Outfit', sans-serif;
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  line-height: 1.2
+
+}
+
+h2 {
+  word-spacing: 9px;
+  font-family: 'Outfit', sans-serif;
+  line-height: 1.4;
+}
+
+
+.img {
+  border-radius: 3.5%;
+  width: 300px;
+  height: 300px;
+  margin-top: 20px;
+}
+
+.img-div {
+  margin: 100px auto;
+  width: 330px;
+  height: 500px;
+  border-radius: 3.5%;
+  background-color: hsl(0, 0%, 100%);
+}
